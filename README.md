@@ -6,14 +6,14 @@
  
 ---
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;DILSHAN_MD;Thanks+for+visiting!"/>
 </a>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan&theme=darkhub&no-frame=true&margin-w=4"/>
 </p>
 
 ---
@@ -31,26 +31,26 @@
 <a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/QUEEN-ANJU_XPRO?color=white&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN-ANJU_XPRO?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN-ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN-ANJU_XPRO?style=flat-square&color=darkred"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DILSHAN-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Dilshan?color=green&style=flat-square"></a>
+<a href="https://github.com/Dilshan/DILSHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dilshan/DILSHAN-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/Dilshan/DILSHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dilshan/DILSHAN-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Dilshan/DILSHAN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dilshan/DILSHAN-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Dilshan/DILSHAN-MD"><img title="Size" src="https://img.shields.io/github/repo-size/DILSHAN/DILSHAN-MD?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Dilshan/DILSHAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+DILSHAN-MD is a whatsapp bot created by Dilshan Ashinsa using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
+And Subscribe Dilshan Ashinsa and give one star for DILSHAN-MD.
 </br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For DILSHAN-MD and [Follow Me](https://github.com/Dilshan) 
 
-## How create queen Anju.
+## How create DILSHAN-MD.
 
 **. Deploy steps.*
- - 1._Fork queen Anju repository._
+ - 1._Fork DILSHAN-MD repository._
     <br>
-    <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Dilshan/DILSHAN-MF/fork"><img title="DILSHAN-MD" src="https://img.shields.io/badge/FORK DILSHAN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp*
 
@@ -73,7 +73,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
   1..DEPLOY ON RENDER
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Dilshan/DILSHAN-MD.git)
 
 ***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
 
@@ -89,7 +89,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
   4..Deploy on Heroku
   <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO">
+    <a href="https://heroku.com/deploy?template=https://github.com/Dilshan/DILSHAN-MD">
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
     </a>
   </p>
